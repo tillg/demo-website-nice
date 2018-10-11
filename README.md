@@ -1,5 +1,5 @@
 # demo-website-nice
-A nice demo website to show Github Pages and Jekyll.
+A nice demo website to show Github Pages and Jekyll. We like to write `code`.
 
 This website has been made for our **Scholars**!
 
@@ -14,3 +14,7 @@ What should **scholars** learn at mgm? We have been discussing this a lot. The b
 ## Another header 2
 
 Bla bla bla
+
+```javascript
+const whatever = 'bla';
+```
