@@ -20,3 +20,5 @@ Bla bla bla
 ```javascript
 const whatever = 'bla';
 ```
+Besides code we like 
+![apple](apple.jpeg)
