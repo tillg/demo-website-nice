@@ -10,3 +10,7 @@ What should scholars learn at mgm? We have been discussing this a lot. The basic
 * The list
 * Is easy
 * to make.
+
+## Another header 2
+
+Bla bla bla
